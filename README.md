@@ -21,7 +21,7 @@ Lazybee tool is a python based script from which you can generate random wordlis
 
 ## One Line Code 
 ```
-git clone https://github.com/SPYSON07/LAZYBEE-SPYSON && cd LAZYBEE-SPYSON && python2 lazybee-spyson.py
+git clone https://github.com/SPYSON07/LAZYBEE-SPYSON && cd LAZYBEE-SPYSON && python2 Lazybee-Spyson.py
 ```
 ## Installation Code
 ```
@@ -33,7 +33,7 @@ cd LAZYBEE-SPYSON
  ```
 
 ```
-python2 lazybee-spyson.py
+python2 Lazybee-Spyson.py
  ```
 
 
@@ -57,4 +57,3 @@ Name your wordlist wit (.txt) extensions: pass.txt
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=REMEMBER+THE+NAME+-+MARK+SPYSON+%E2%98%A0%EF%B8%8F"/>
 </h1>
-

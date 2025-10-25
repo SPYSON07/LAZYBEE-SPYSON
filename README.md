@@ -48,14 +48,13 @@ Name your wordlist wit (.txt) extensions: pass.txt
 ## SCREENSHOT (termux)
 
 ### Screenshot 1
-![Screenshot 1](screenshot/00.png)
+![Screenshot 1](screenshot/00.jpg)
 
 ### Screenshot 2
-![Screenshot 2](screenshot/01.png)
+![Screenshot 2](screenshot/01.jpg)
 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=REMEMBER+THE+NAME+-+MARK+SPYSON+%E2%98%A0%EF%B8%8F"/>
 </h1>
-# LAZYBEE-SPYSON
-Lazybee tool is a python based script from which you can generate random wordlist for brutefocre attacks. This tool has a unique features like wordlist generating time calculation and direct .txt saving in current directory. This tool works on both rooted Android device and Non-rooted Android device.
+
